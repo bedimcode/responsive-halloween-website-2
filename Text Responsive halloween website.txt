@@ -1,0 +1,127 @@
+========== HEADER ==========
+.nav__logo
+Halloween
+
+.nav__link
+Home
+
+About us
+
+Items
+
+Party
+
+========== HOME ==========
+.home__title
+<span>Halloween</span> Trick Or Treat!!!
+
+.home__description
+This Halloween, enjoy trick-or-treating 
+with your friends and spend a terrifying 
+night under the full moon.
+
+.button
+Explore Now!!!
+
+
+========== CATEGORY ==========
+.section__title
+Choose your <br>
+spooky category
+
+.category__title .category__description
+Pumpkins
+Light up horror pumpkins to scare at night
+
+Ghost
+Spooky ghosts to scare in the most haunted houses
+
+Witch Hat
+The most elegant witch hats you can wear and scare
+
+
+========== ABOUT  ==========
+.section__title
+About The Night <br>
+Of Terror
+
+.about__description
+Halloween is celebrated every October 31 
+at night, walk around the city with your 
+friends and trick or treat, enjoy this 
+celebration under the full moon.
+
+.button
+Know More!!!
+
+
+========== ITEMS ==========
+.section__title
+Select your <br>
+lost item
+
+.items__name .items__price
+Candy Apple
+$4.99
+
+Witch Broom
+$12.99
+
+Pumpkin
+$7.99
+
+Spider
+$9.99
+
+Witch Hat
+$15.99
+
+
+========== PARTY   ==========
+.section__title
+Halloween <br>
+party 31 October
+
+.party__description
+Organize a great Halloween party and 
+enjoy the creepiest night of terror with all 
+your friends.
+
+.button
+Start The Party!!!
+
+
+========== FOOTER ==========
+.footer__logo
+Halloween
+
+.footer__description
+Enjoy the spookiest <br> 
+night of your life.
+
+.footer__title | .footer__link
+About Us
+About us
+Features
+News & Blog
+
+Services
+Pricing
+Discounts
+Send a gift
+
+Company
+Blog
+Celebrations
+About
+
+Social Media
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
+
